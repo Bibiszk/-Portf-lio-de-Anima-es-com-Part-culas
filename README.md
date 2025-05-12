@@ -33,7 +33,7 @@ Este projeto reúne animações visuais criadas com HTML, CSS e JavaScript puro,
 1. Clone ou baixe este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   (https://github.com/Bibiszk/-Portf-lio-de-Anima-es-com-Part-culas.git)
    ```
 2. Abra o arquivo `heart-particle.html` no navegador.
 3. Para visualizar outras animações, modifique o HTML para carregar o `next-particle.js` conforme a imagem desejada.
